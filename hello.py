@@ -7,4 +7,5 @@
 #
 
 # ***Uncomment the line below***
-print("Hello, World!")
+print("Hello, World! Let's enjoy a new day")
+
